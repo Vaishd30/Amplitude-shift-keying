@@ -1,4 +1,4 @@
-![image](https://github.com/Vaishd30/Amplitude-shift-keying/assets/139155413/19c0c29b-df2e-46d3-9f23-e65bcb5510a6)# Amplitude-shift-keying
+# Amplitude-shift-keying
 Amplitude shift keying modulation and demodulation and BER vs SNR
 
 # Introduction
